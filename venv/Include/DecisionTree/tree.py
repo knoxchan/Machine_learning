@@ -10,6 +10,7 @@ from matplotlib import lines as mlines
 plt.rcParams['font.sans-serif'] = ['KaiTi']  # 指定默认字体
 plt.rcParams['axes.unicode_minus'] = False  # 解决保存图像是负号'-'显示为方块的问题
 
+
 def createDataSet():
     """
     函数说明:创建测试数据集
@@ -35,18 +36,18 @@ def createDataSet():
                [2, 1, 0, 1, 'yes'],
                [2, 1, 0, 2, 'yes'],
                [2, 0, 0, 0, 'no']]
-    labels = ['年龄','有工作','有自己的房子', '信贷情况']  # 分类属性
+    labels = ['年龄', '有工作', '有自己的房子', '信贷情况']  # 分类属性
     return dataSet, labels  # 返回数据集和分类属性
 
 
-'''
-函数说明:计算给定数据集的经验熵(香农熵)
-Parameter:
-    dataSet - 数据集
-Returns:
-    shannonEnt - 经验熵(香农熵)
-'''
 def calcShannonEnt(dataSet):
+    '''
+    函数说明:计算给定数据集的经验熵(香农熵)
+    Parameter:
+        dataSet - 数据集
+    Returns:
+        shannonEnt - 经验熵(香农熵)
+    '''
     # 返回数据集的行数
     numEntires = len(dataSet)
     # 保存每个标签(label)出现次数的字典
@@ -69,16 +70,16 @@ def calcShannonEnt(dataSet):
     return shannonEnt
 
 
-'''
-函数说明：按照给定特征划分数据集
-Parameters:
-    dataSet - 待划分的数据集
-    axis - 划分数据集的特征
-    value - 需要返回的特征的值
-Returns:
-    retDataSet - 划分后的数据集
-'''
 def splitDataSet(dataSet, axis, value):
+    '''
+    函数说明：按照给定特征划分数据集
+    Parameters:
+        dataSet - 待划分的数据集
+        axis - 划分数据集的特征
+        value - 需要返回的特征的值
+    Returns:
+        retDataSet - 划分后的数据集
+    '''
     # 创建返回的数据集列表
     retDataSet = []
     # 遍历数据集
@@ -91,14 +92,14 @@ def splitDataSet(dataSet, axis, value):
     return retDataSet
 
 
-'''
-函数说明：选择最优特征
-Parameters:
-    dataSet - 数据集
-Returns:
-    bestFeature - 信息增益最大的(最优)特征的索引值
-'''
 def chooseBestFeatureToSplit(dataSet):
+    '''
+    函数说明：选择最优特征
+    Parameters:
+        dataSet - 数据集
+    Returns:
+        bestFeature - 信息增益最大的(最优)特征的索引值
+    '''
     # 特征数量
     numFeature = len(dataSet[0]) - 1
     # 计算数据集的经验熵
@@ -131,14 +132,14 @@ def chooseBestFeatureToSplit(dataSet):
     return bestFeature
 
 
-'''
-统计classList中出现次数最多的元素(类标签)
-Parameters:
-    classList - 类标签列表
-Returns:
-    sortedClassCount[0][0] - 出现次数最多的元素(类标签)
-'''
 def majortyCnt(classList):
+    '''
+    统计classList中出现次数最多的元素(类标签)
+    Parameters:
+        classList - 类标签列表
+    Returns:
+        sortedClassCount[0][0] - 出现次数最多的元素(类标签)
+    '''
     classCount = {}
     for vote in classList:
         if vote not in classCount.keys():
@@ -147,7 +148,8 @@ def majortyCnt(classList):
     sortedClassCount = sorted(classCount.items(), key=operator.itemgetter(1), reverse=True)
     return sortedClassCount[0][0]
 
-def createTree(dataSet,labels,featLabels):
+
+def createTree(dataSet, labels, featLabels):
     '''
     函数说明：创建决策树
     :param dataSet: 训练数据集
@@ -169,19 +171,20 @@ def createTree(dataSet,labels,featLabels):
     bestFeatLabel = labels[bestFeat]
     featLabels.append(bestFeatLabel)
     # 使用最优标签生成树
-    myTree = {bestFeatLabel:{}}
+    myTree = {bestFeatLabel: {}}
     # 删除已使用的特征标签
-    del(labels[bestFeat])
+    del (labels[bestFeat])
     # 得到最优特征中的全部取值
     featValues = [example[bestFeat] for example in dataSet]
     # 去重 得到唯一的可取属性值
     uniqueVals = set(featValues)
     for value in uniqueVals:
         subLabels = labels[:]
-        myTree[bestFeatLabel][value] = createTree(splitDataSet(dataSet,bestFeat,value),subLabels,featLabels)
+        myTree[bestFeatLabel][value] = createTree(splitDataSet(dataSet, bestFeat, value), subLabels, featLabels)
     return myTree
 
-def classify(inputTree,featLabels,testVec):
+
+def classify(inputTree, featLabels, testVec):
     '''
     函数说明：使用决策书分类
     :param inputTree:  已经生成的决策树
@@ -196,18 +199,21 @@ def classify(inputTree,featLabels,testVec):
         if testVec[featIndex] == key:
             if type(secondDict[key]).__name__ == 'dict':
                 classLabel = classify(secondDict[key], featLabels, testVec)
-            else: classLabel = secondDict[key]
+            else:
+                classLabel = secondDict[key]
     return classLabel
 
-def storeTree(inputTree,filename):
+
+def storeTree(inputTree, filename):
     '''
     函数说明:储存决策树
     :param inputTree: 已经生成的决策书
     :param filename:  决策树的储存文件命
     :return: None
     '''
-    with open(filename,'wb') as fw:
-    pickle.dumps(inputTree,fw)
+    with open(filename, 'wb') as fw:
+        pickle.dumps(inputTree, fw)
+
 
 def grabTree(filename):
     '''
@@ -215,12 +221,12 @@ def grabTree(filename):
     :param filename: 决策树的储存文件命
     :return: pickle.load(fr) - 决策书字典
     '''
-    fr = open(filename,'rb')
+    fr = open(filename, 'rb')
     return pickle.load(fr)
+
 
 if __name__ == '__main__':
     dataSet, labels = createDataSet()
     # print('最优特征索引值：', chooseBestFeatureToSplit(dataSet))
     featLabels = []
-    print('决策树为',createTree(dataSet,labels,featLabels))
-
+    print('决策树为', createTree(dataSet, labels, featLabels))

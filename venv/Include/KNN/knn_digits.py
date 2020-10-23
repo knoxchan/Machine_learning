@@ -3,16 +3,15 @@ from os import listdir
 import operator
 from sklearn.neighbors import KNeighborsClassifier as KNN
 
-'''
-函数说明： 将32*32的二进制图像转换为1*1024向量
-parameters:
-    filename - 文件名
-Rreturns:
-    return_vect - 返回的而精致图像的1*1024向量
-'''
-
 
 def img2vector(filename):
+    '''
+    函数说明： 将32*32的二进制图像转换为1*1024向量
+    parameters:
+        filename - 文件名
+    Rreturns:
+        return_vect - 返回的而精致图像的1*1024向量
+    '''
     # 创建1*1024零向量
     return_vect = np.zeros((1, 1024))
     # 打开文件
@@ -26,17 +25,14 @@ def img2vector(filename):
             return_vect[0, 32 * i + j] = int(line_str[j])
     return return_vect
 
-
-'''
-函数说明：手写数字分类测试
-Paramters:
-    无
-Returns:
-    无
-'''
-
-
 def handwriting_class_test():
+    '''
+    函数说明：手写数字分类测试
+    Paramters:
+        无
+    Returns:
+        无
+    '''
     # 测试集的labels
     hw_labels = []
     # 返回trainingDigits目录下的文件名
