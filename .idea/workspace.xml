@@ -1,175 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86d05b13-fae1-49e8-b8a8-9756d35fa514" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/ClassList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000008/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000010/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000013/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000014/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000016/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000020/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000022/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000023/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/SogouC/Sample/C000024/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/ham/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/10.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/11.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/12.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/13.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/14.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/15.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/16.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/17.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/18.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/19.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/20.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/21.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/22.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/23.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/24.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/25.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/7.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/8.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/email/spam/9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/emailSplit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/engWordSplit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/sinaNewSplit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/stopwords_cn.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/Bayes/t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/DecisionTree/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/DecisionTree/lenses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/DecisionTree/lenses_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/DecisionTree/tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/KNN/knn_digits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/KNN/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/logistic/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/logistic/horseColicTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/logistic/horseColicTraining.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/logistic/logisticTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/logistic/randLogisticTest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/logistic/sklLogistic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/logistic/t.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Include/logistic/testSet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/KNN_TEST/karen_dating.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/KNN/karen_dating.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/KNN_TEST/karen_dating.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/KNN/karen_dating.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Include/KNN_TEST/knn_digits.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Include/Bayes/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
-    </list>
+    <list default="true" id="86d05b13-fae1-49e8-b8a8-9756d35fa514" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,8 +42,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Include/logistic/sklLogistic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="123" column="18" lean-forward="true" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
+            <state relative-caret-position="4026">
+              <caret line="123" column="18" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
               <folding>
                 <element signature="e#341#359#0" expanded="true" />
               </folding>
@@ -222,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/Include/logistic/t.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="268">
+              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
               <folding>
                 <element signature="e#23#41#0" expanded="true" />
               </folding>
@@ -234,7 +66,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/defmatrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="6897">
               <caret line="217" selection-start-line="217" selection-end-line="217" />
             </state>
           </provider>
@@ -243,7 +75,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Include/logistic/logisticTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-173">
+            <state relative-caret-position="2409">
               <caret line="74" column="15" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="15" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
@@ -255,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/venv/Include/logistic/randLogisticTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
+            <state relative-caret-position="3828">
               <caret line="118" column="84" selection-start-line="118" selection-start-column="84" selection-end-line="118" selection-end-column="84" />
               <folding>
                 <element signature="e#23#54#0" expanded="true" />
@@ -328,8 +160,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="414" />
-    <option name="y" value="87" />
+    <option name="x" value="567" />
+    <option name="y" value="86" />
     <option name="width" value="905" />
     <option name="height" value="852" />
   </component>
@@ -481,7 +313,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -640,6 +472,7 @@
       <workItem from="1601455566539" duration="3933000" />
       <workItem from="1601862176466" duration="58048000" />
       <workItem from="1602469581933" duration="24323000" />
+      <workItem from="1603436812588" duration="178000" />
     </task>
     <task id="LOCAL-00001" summary="初次上传">
       <created>1601457937721</created>
@@ -655,11 +488,18 @@
       <option name="project" value="LOCAL" />
       <updated>1601953873825</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="初次上传">
+      <created>1603436828492</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603436828492</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86304000" />
+    <option name="totallyTimeSpent" value="86482000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -671,9 +511,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="567" y="86" width="905" height="852" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49920255" weight="0.6705757" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49920255" weight="0.6698225" />
       <window_info id="Structure" order="1" sideWeight="0.50079745" side_tool="true" weight="0.17857143" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -686,7 +527,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5004501" side_tool="true" weight="0.3518776" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5004501" side_tool="true" visible="true" weight="0.45125347" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49864987" weight="0.3278237" />
       <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49954996" weight="0.32916668" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -990,19 +831,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/logistic/randLogisticTest.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/logistic/sklLogistic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="118" column="84" selection-start-line="118" selection-start-column="84" selection-end-line="118" selection-end-column="84" />
+        <state relative-caret-position="4026">
+          <caret line="123" column="18" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
           <folding>
-            <element signature="e#23#54#0" expanded="true" />
+            <element signature="e#341#359#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6897">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/logistic/logisticTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-173">
+        <state relative-caret-position="2409">
           <caret line="74" column="15" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="15" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
@@ -1010,27 +858,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+    <entry file="file://$PROJECT_DIR$/venv/Include/logistic/randLogisticTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="217" selection-start-line="217" selection-end-line="217" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Include/logistic/sklLogistic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="123" column="18" lean-forward="true" selection-start-line="123" selection-start-column="18" selection-end-line="123" selection-end-column="18" />
+        <state relative-caret-position="3828">
+          <caret line="118" column="84" selection-start-line="118" selection-start-column="84" selection-end-line="118" selection-end-column="84" />
           <folding>
-            <element signature="e#341#359#0" expanded="true" />
+            <element signature="e#23#54#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Include/logistic/t.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="268">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
           <folding>
             <element signature="e#23#41#0" expanded="true" />
           </folding>
