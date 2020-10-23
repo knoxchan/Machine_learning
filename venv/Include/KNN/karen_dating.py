@@ -23,8 +23,6 @@ plt.rcParams['axes.unicode_minus'] = False  # 解决保存图像是负号'-'显�
 def knn_main():
     dating_data_mat, dating_labels = file2matrix('karen_dating.txt')
     showdatas(dating_data_mat,dating_labels)
-    
-
 
 def file2matrix(filename):
     # karen_dating 特征
